@@ -53,58 +53,12 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-Data.head():
-
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/fe7e2a52-b584-4686-8027-b1cb8ec0c136)
-
-Data.info():
-
-
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/e91f5083-b124-4bde-a531-a3a8f8f469cb)
-
-
-isnull() and sum():
-
-
-
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/13765c70-5817-4e4a-875b-191ff0b3a687)
-
-
-Data Value Counts():
-
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/01560d37-b412-446d-8648-705b39e7a7ea)
-
-
-
-Data.head() for salary:
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/459eba34-9924-4f09-a9fe-c3db2cb4b230)
-
-x.head():
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/9c7e8ea2-4992-464f-9c3e-8ade02113569)
-
-Accuracy Value:
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/7dd3fc29-5591-415e-b43c-bb3d9bcb392c)
-
-
-Data Prediction:
-
-
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/9a5343bc-3a31-4ab6-9e9d-96bad64d5909)
+### Data:
+![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497405/fa4bf578-75b3-4a80-88e3-dd2571f963c6)
+### Accuracy:
+![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497405/383238e4-b8fc-4a1b-af03-bad654be3103)
+### Predict:
+![image](https://github.com/harini1006/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497405/ee3d2dd0-989b-47fd-88ab-12908477c844)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
